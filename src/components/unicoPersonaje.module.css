@@ -1,0 +1,33 @@
+.unicoPersonaje {
+    width: 90%;
+    display: grid;
+    margin: 0;
+    margin-left: 50%;
+    margin-right: 50%;
+    text-align: center;
+
+}
+
+.infoContent {
+    margin-left: 50%;
+    margin-right: 50%;
+
+}
+
+.btnLink {
+
+    display: inline-block;
+    width: 70px;
+    text-align: center;
+    padding: .5rem;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    background-color: rgb(100, 100, 216);
+
+}
+
+.btnLink:hover {
+    background-color: blue;
+}
