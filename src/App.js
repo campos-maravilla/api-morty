@@ -5,7 +5,7 @@ import Personaje from './components/Personaje';
 function App() {
   return (
     <div className="contenedor">
-      <HashRouter basename='Inicio'>
+      <HashRouter basename='/'>
 
         <BrowserRouter >
           <Routes>
